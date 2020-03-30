@@ -121,91 +121,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &22456358
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 276042696}
-    m_Modifications:
-    - target: {fileID: 3311798341011851823, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: texture
-      value: 
-      objectReference: {fileID: 2800000, guid: 85a45cdaa44438f44bc5a88ff0d73ae9, type: 3}
-    - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: title
-      value: MartialArtsCloseExit
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -10.428928
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.9539793
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5.6610727
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.9226204
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.38570935
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -134.62401
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_Name
-      value: MartialArtsCloseExit
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
---- !u!4 &22456359 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 22456358}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &62367157
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -221,12 +136,13 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: HallwayClose16GymEnter
+      value: "\u0412\u0445\u043E\u0434 \u0432 16 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.148928
+      value: -2.1079998
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -236,7 +152,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.8590002
+      value: 1.7629995
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -246,7 +162,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.99890506
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -256,7 +172,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.0467842
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -271,7 +187,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -174.63701
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -281,7 +197,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: HallwayClose16GymEnter
+      value: "\u0412\u0445\u043E\u0434 \u0432 16 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -315,7 +232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.005158117, y: 0.80847126, z: 0, w: 0.5885132}
+  orientation: {x: 0.0059058648, y: -0.5887768, z: 0, w: 0.8082741}
   colorScheme: 0
   Destination: {fileID: 991459937}
 --- !u!4 &62367161 stripped
@@ -333,12 +250,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 62367158}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
+  m_Script: {fileID: 11500000, guid: bdb385228887c3448ad6a0930f38433b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.025924562, y: 0.09454429, z: 0, w: 0.99518305}
-  colorScheme: 0
-  Destination: {fileID: 284413058}
+  orientation: {x: -0.22016166, y: 0.9644931, z: 0, w: -0.14588349}
+  title: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440"
+  states:
+  - {fileID: 719074778}
+  - {fileID: 284413058}
 --- !u!1001 &258059745
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -354,7 +273,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: 16GymPointOfView3
+      value: "\u0417\u043E\u043D\u0430 \u0434\u043B\u044F \u043E\u0431\u0449\u0435\u0439
+        \u043D\u0430\u0433\u0440\u0443\u0437\u043A\u0438"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -414,7 +334,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: 16GymPointOfView3
+      value: "\u0417\u043E\u043D\u0430 \u0434\u043B\u044F \u043E\u0431\u0449\u0435\u0439
+        \u043D\u0430\u0433\u0440\u0443\u0437\u043A\u0438"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -484,9 +405,7 @@ Transform:
   m_LocalPosition: {x: 10.428928, y: -1.9539793, z: 12.001073}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 2085139715}
   - {fileID: 1646316628}
-  - {fileID: 22456359}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -508,9 +427,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.035339814, y: 0.11145383, z: 0, w: 0.99314106}
+  orientation: {x: 0.04574514, y: 0.1118145, z: 0, w: 0.99267566}
   colorScheme: 0
-  Destination: {fileID: 950642199}
+  Destination: {fileID: 1646316625}
 --- !u!114 &284413056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -523,8 +442,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdb385228887c3448ad6a0930f38433b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.048595957, y: 0.73573744, z: 0, w: 0.67552114}
-  title: Hallway
+  orientation: {x: 0.069796145, y: 0.7365552, z: 0, w: 0.6727666}
+  title: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440"
   states:
   - {fileID: 62367159}
   - {fileID: 719074778}
@@ -571,7 +490,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: HallwayCloseDepartment
+      value: "\u0412\u0445\u043E\u0434 \u043D\u0430 \u043A\u0430\u0444\u0435\u0434\u0440\u0443
+        \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0432\u043E\u0441\u043F\u0438\u0442\u0430\u043D\u0438\u044F"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -631,7 +551,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: HallwayCloseDepartment
+      value: "\u0412\u0445\u043E\u0434 \u043D\u0430 \u043A\u0430\u0444\u0435\u0434\u0440\u0443
+        \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u0432\u043E\u0441\u043F\u0438\u0442\u0430\u043D\u0438\u044F"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -689,139 +610,6 @@ MonoBehaviour:
   orientation: {x: -0.21024942, y: 0.9644519, z: 0, w: -0.16008657}
   colorScheme: 0
   Destination: {fileID: 284413058}
---- !u!1001 &316364667
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 999947034}
-    m_Modifications:
-    - target: {fileID: 3311798341011851823, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: texture
-      value: 
-      objectReference: {fileID: 2800000, guid: 0c231fcf411dab349b6597524845ba41, type: 3}
-    - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: title
-      value: 17GymCloseExit
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 11.719115
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.8737915
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 12.419436
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_Name
-      value: 17GymCloseExit
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
---- !u!114 &316364668 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 316364667}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316364669}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc03be709741ccf4b90df2641022098d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1 &316364669 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 316364667}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &316364670
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316364669}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: -0.19886088, y: 0.92446655, z: 0, w: -0.3252936}
-  colorScheme: 0
-  Destination: {fileID: 711856978}
---- !u!114 &316364671
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316364669}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: 0.10071325, y: 0.19549592, z: 0, w: 0.9755195}
-  colorScheme: 0
-  Destination: {fileID: 719074778}
---- !u!4 &316364672 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 316364667}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &407159899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -898,7 +686,7 @@ PrefabInstance:
         type: 3}
       propertyPath: logoTexture
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 2800000, guid: 6ee8add93b5004c2fbf91c201a839217, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2928899a47f22d945908a8a63d0e479f, type: 3}
 --- !u!1 &430745745
@@ -955,7 +743,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: VolleyballAndFootballCourt1PointOfView2
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 1"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1030,7 +819,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: VolleyballAndFootballCourt1PointOfView2
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 1"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1049,7 +839,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: VolleyballAndFootballCourt2PointOfView1
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 2"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1074,7 +865,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.58110034
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1084,7 +875,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.8138319
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1099,7 +890,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 71.056
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1124,7 +915,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: VolleyballAndFootballCourt2PointOfView1
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 2"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1158,7 +950,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.08094775, y: -0.11368474, z: 0, w: 0.99021375}
+  orientation: {x: 0.22652672, y: 0.6367248, z: 0, w: 0.7370666}
   colorScheme: 0
   Destination: {fileID: 284413058}
 --- !u!114 &526644369
@@ -1173,7 +965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.062161736, y: 0.63244826, z: 0, w: 0.7721044}
+  orientation: {x: 0.7975828, y: 0.59825575, z: 0, w: 0.07714805}
   colorScheme: 0
   Destination: {fileID: 767387176}
 --- !u!114 &526644370
@@ -1188,7 +980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.06663675, y: -0.76796955, z: 0, w: 0.63701046}
+  orientation: {x: 0.019491332, y: -0.08119132, z: 0, w: 0.99650794}
   colorScheme: 0
   Destination: {fileID: 1909149583}
 --- !u!114 &526644371
@@ -1203,7 +995,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.32334512, y: 0.9397468, z: 0, w: 0.11101351}
+  orientation: {x: 0.030340413, y: -0.72279376, z: 0, w: 0.69039744}
   colorScheme: 0
   Destination: {fileID: 952056947}
 --- !u!4 &526644376 stripped
@@ -1227,7 +1019,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: BasketballCourtPointOfView2
+      value: "\u0411\u0430\u0441\u043A\u0435\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1302,7 +1095,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: BasketballCourtPointOfView2
+      value: "\u0411\u0430\u0441\u043A\u0435\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1356,12 +1150,13 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: 17GymPointOfView1
+      value: "17 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.719115
+      value: 14.351001
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1371,7 +1166,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15.079436
+      value: 10.945
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1381,7 +1176,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.717616
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1391,12 +1186,12 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.69643897
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1406,7 +1201,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 91.716
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1416,7 +1211,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: 17GymPointOfView1
+      value: "17 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1450,9 +1246,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.06752859, y: -0.28178534, z: 0, w: 0.9570982}
+  orientation: {x: 0.055034816, y: 0.49937177, z: 0, w: 0.8646381}
   colorScheme: 0
-  Destination: {fileID: 316364668}
+  Destination: {fileID: 719074778}
 --- !u!4 &711856980 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1474,7 +1270,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: HallwayClose17GymEnter
+      value: "\u0412\u0445\u043E\u0434 \u0432 17 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1534,7 +1331,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: HallwayClose17GymEnter
+      value: "\u0412\u0445\u043E\u0434 \u0432 17 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1565,12 +1363,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 719074777}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
+  m_Script: {fileID: 11500000, guid: bdb385228887c3448ad6a0930f38433b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.07780847, y: 0.47970262, z: 0, w: 0.8739744}
-  colorScheme: 0
-  Destination: {fileID: 316364668}
+  orientation: {x: 0.0633756, y: -0.20903075, z: 0, w: 0.9758533}
+  title: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440"
+  states:
+  - {fileID: 62367159}
+  - {fileID: 284413058}
 --- !u!4 &719074780 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1589,9 +1389,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.15220253, y: -0.27226397, z: 0, w: 0.9501088}
+  orientation: {x: 0.30044523, y: 0.92609566, z: 0, w: 0.22820948}
   colorScheme: 0
-  Destination: {fileID: 284413058}
+  Destination: {fileID: 1496669915}
+--- !u!114 &719074782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 719074777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientation: {x: 0.08067355, y: 0.4828245, z: 0, w: 0.8719933}
+  colorScheme: 0
+  Destination: {fileID: 711856978}
 --- !u!1001 &721136479
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1607,7 +1422,9 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: VolleyballAndFootballCourt3PointOfView1
+      value: "\u041F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 \u0434\u043B\u044F
+        \u043D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0435\u043D\u043D\u0438\u0441\u0430
+        \u0438 \u0431\u0430\u0434\u043C\u0438\u043D\u0442\u043E\u043D\u0430/\u0444\u0443\u0442\u0431\u043E\u043B\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1682,7 +1499,9 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: VolleyballAndFootballCourt3PointOfView1
+      value: "\u041F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 \u0434\u043B\u044F
+        \u043D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0435\u043D\u043D\u0438\u0441\u0430
+        \u0438 \u0431\u0430\u0434\u043C\u0438\u043D\u0442\u043E\u043D\u0430/\u0444\u0443\u0442\u0431\u043E\u043B\u0430"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1716,7 +1535,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.062042374, y: 0.14146891, z: 0, w: 0.98799664}
+  orientation: {x: 0.08885917, y: 0.69375545, z: 0, w: 0.714708}
   colorScheme: 0
   Destination: {fileID: 1158070489}
 --- !u!114 &767387178
@@ -1731,7 +1550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: -0.075219646, y: 0.91096944, z: 0, w: -0.4055573}
+  orientation: {x: 0.030196063, y: -0.5067967, z: 0, w: 0.86153656}
   colorScheme: 0
   Destination: {fileID: 526644367}
 --- !u!114 &767387179
@@ -1746,7 +1565,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.04135512, y: 0.8813901, z: 0, w: 0.4705755}
+  orientation: {x: -0.14823852, y: 0.97734565, z: 0, w: -0.1510656}
   colorScheme: 0
   Destination: {fileID: 1402060069}
 --- !u!4 &767387184 stripped
@@ -1770,7 +1589,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: 16GymPointOfView1
+      value: "\u0417\u043E\u043D\u0430 \u0434\u043B\u044F \u0430\u044D\u0440\u043E\u0431\u043D\u044B\u0445
+        \u043D\u0430\u0433\u0440\u0443\u0437\u043E\u043A"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1830,7 +1650,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: 16GymPointOfView1
+      value: "\u0417\u043E\u043D\u0430 \u0434\u043B\u044F \u0430\u044D\u0440\u043E\u0431\u043D\u044B\u0445
+        \u043D\u0430\u0433\u0440\u0443\u0437\u043E\u043A"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -1903,7 +1724,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: TransitionBetween1And2Court
+      value: "\u041F\u0435\u0440\u0435\u0445\u043E\u0434 \u043C\u0435\u0436\u0434\u0443
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430\u043C\u0438"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -1978,58 +1800,11 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: TransitionBetween1And2Court
+      value: "\u041F\u0435\u0440\u0435\u0445\u043E\u0434 \u043C\u0435\u0436\u0434\u0443
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430\u043C\u0438"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
---- !u!1 &950642198 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 22456358}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &950642199 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 22456358}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 950642198}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc03be709741ccf4b90df2641022098d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &950642200
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 950642198}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: 0.99859875, y: -0.04112131, z: 0, w: 0.033310767}
-  colorScheme: 0
-  Destination: {fileID: 284413058}
---- !u!114 &950642201
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 950642198}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: 0.13152719, y: -0.08498367, z: 0, w: 0.9876631}
-  colorScheme: 0
-  Destination: {fileID: 2085139711}
 --- !u!1 &952056942 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2084,7 +1859,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: 16GymCloseExit
+      value: "16 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2144,7 +1920,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: 16GymCloseExit
+      value: "16 \u0442\u0440\u0435\u043D\u0430\u0436\u0435\u0440\u043D\u044B\u0439
+        \u0437\u0430\u043B"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -2229,7 +2006,6 @@ Transform:
   m_LocalPosition: {x: 15.490884, y: 1.1837915, z: 1.7005647}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 316364672}
   - {fileID: 711856980}
   m_Father: {fileID: 0}
   m_RootOrder: 5
@@ -2342,7 +2118,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: BasketballCourtPointOfView1
+      value: "\u0411\u0430\u0441\u043A\u0435\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2367,7 +2144,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.8497841
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2377,7 +2154,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: -0.527131
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2392,7 +2169,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 243.624
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2417,7 +2194,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: BasketballCourtPointOfView1
+      value: "\u0411\u0430\u0441\u043A\u0435\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -2475,7 +2253,7 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: HallwayPointOfView1
+      value: "\u0417\u043E\u043D\u0430 \u043E\u0436\u0438\u0434\u0430\u043D\u0438\u044F"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2535,7 +2313,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: HallwayPointOfView1
+      value: "\u0417\u043E\u043D\u0430 \u043E\u0436\u0438\u0434\u0430\u043D\u0438\u044F"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -2569,7 +2347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.12722574, y: 0.9105194, z: 0, w: 0.39340565}
+  orientation: {x: 0.09971995, y: 0.91182745, z: 0, w: 0.39827958}
   colorScheme: 0
   Destination: {fileID: 284693933}
 --- !u!4 &1496669917 stripped
@@ -2578,6 +2356,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1496669913}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1496669918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1496669914}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientation: {x: -0.041458167, y: 0.9216602, z: 0, w: -0.3857768}
+  colorScheme: 0
+  Destination: {fileID: 719074778}
 --- !u!1001 &1497302166
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2593,7 +2386,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: VolleyballAndFootballCourt1PointOfView1
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 1"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2618,7 +2412,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.7492061
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2628,7 +2422,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.66233695
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2643,7 +2437,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 97.04301
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2668,7 +2462,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: VolleyballAndFootballCourt1PointOfView1
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 1"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -2687,7 +2482,8 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: VolleyballAndFootballCourt2PointOfView2
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 2"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2762,7 +2558,8 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: VolleyballAndFootballCourt2PointOfView2
+      value: "\u0412\u043E\u043B\u0435\u0439\u0431\u043E\u043B\u044C\u043D\u0430\u044F/\u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F
+        \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 2"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -2820,7 +2617,9 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: VolleyballAndFootballCourt3PointOfView2
+      value: "\u041F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 \u0434\u043B\u044F
+        \u043D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0435\u043D\u043D\u0438\u0441\u0430
+        \u0438 \u0431\u0430\u0434\u043C\u0438\u043D\u0442\u043E\u043D\u0430/\u0444\u0443\u0442\u0431\u043E\u043B\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2895,7 +2694,9 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: VolleyballAndFootballCourt3PointOfView2
+      value: "\u041F\u043B\u043E\u0449\u0430\u0434\u043A\u0430 \u0434\u043B\u044F
+        \u043D\u0430\u0441\u0442\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u0442\u0435\u043D\u043D\u0438\u0441\u0430
+        \u0438 \u0431\u0430\u0434\u043C\u0438\u043D\u0442\u043E\u043D\u0430/\u0444\u0443\u0442\u0431\u043E\u043B\u0430"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -2914,12 +2715,12 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: MartialArtsPointOfView2
+      value: "\u0417\u0430\u043B \u0435\u0434\u0438\u043D\u043E\u0431\u043E\u0440\u0441\u0442\u0432"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.76
+      value: -9.53
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2939,7 +2740,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.6391255
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2949,12 +2750,12 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.76910245
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2964,7 +2765,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 79.453
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -2974,7 +2775,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: MartialArtsPointOfView2
+      value: "\u0417\u0430\u043B \u0435\u0434\u0438\u043D\u043E\u0431\u043E\u0440\u0441\u0442\u0432"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -3008,9 +2809,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.048910603, y: -0.4855225, z: 0, w: 0.87285495}
+  orientation: {x: 0.027195698, y: 0.21929973, z: 0, w: 0.97527844}
   colorScheme: 0
-  Destination: {fileID: 2085139711}
+  Destination: {fileID: 284413058}
 --- !u!4 &1646316628 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -3032,7 +2833,7 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: 16GymPointOfView2
+      value: "\u0421\u0442\u0430\u043D\u043E\u0432\u0430\u044F \u0442\u044F\u0433\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -3092,7 +2893,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: 16GymPointOfView2
+      value: "\u0421\u0442\u0430\u043D\u043E\u0432\u0430\u044F \u0442\u044F\u0433\u0430"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
@@ -3214,7 +3015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.05244287, y: 0.11391645, z: 0, w: 0.99210525}
+  orientation: {x: 0.09785558, y: -0.77901274, z: 0, w: 0.619325}
   colorScheme: 0
   Destination: {fileID: 526644367}
 --- !u!114 &1909149585
@@ -3229,7 +3030,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.040846787, y: 0.8943628, z: 0, w: 0.4454736}
+  orientation: {x: 0.007845541, y: 0.09320704, z: 0, w: 0.99561584}
   colorScheme: 0
   Destination: {fileID: 1541648281}
 --- !u!4 &1909149590 stripped
@@ -3292,139 +3093,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 721136479}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &2085139710
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 276042696}
-    m_Modifications:
-    - target: {fileID: 3311798341011851823, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: texture
-      value: 
-      objectReference: {fileID: 2800000, guid: 62aa85c2b1669e7439ff7d806d84b3b5, type: 3}
-    - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: title
-      value: MartialArtsPointOfView1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -8.11
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.34
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -4.121073
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
-        type: 3}
-      propertyPath: m_Name
-      value: MartialArtsPointOfView1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
---- !u!114 &2085139711 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 2085139710}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2085139712}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc03be709741ccf4b90df2641022098d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1 &2085139712 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 2085139710}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2085139713
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2085139712}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: 0.08968883, y: 0.84370506, z: 0, w: 0.52926147}
-  colorScheme: 0
-  Destination: {fileID: 1646316625}
---- !u!114 &2085139714
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2085139712}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: 0.021772396, y: -0.66062623, z: 0, w: 0.7503992}
-  colorScheme: 0
-  Destination: {fileID: 950642199}
---- !u!4 &2085139715 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
-    type: 3}
-  m_PrefabInstance: {fileID: 2085139710}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2097962548
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3440,7 +3108,7 @@ PrefabInstance:
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
-      value: HallwayCloseMartialArtsEnter
+      value: "\u0412\u0445\u043E\u0434 \u0432 \u0437\u0430\u043B \u0435\u0434\u0438\u043D\u043E\u0431\u043E\u0440\u0441\u0442\u0432"
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -3500,7 +3168,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307869, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_Name
-      value: HallwayCloseMartialArtsEnter
+      value: "\u0412\u0445\u043E\u0434 \u0432 \u0437\u0430\u043B \u0435\u0434\u0438\u043D\u043E\u0431\u043E\u0440\u0441\u0442\u0432"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf382f7bf5f218746b96930f4bbc4441, type: 3}
