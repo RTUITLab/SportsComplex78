@@ -1450,21 +1450,6 @@ MonoBehaviour:
   orientation: {x: 0.057115946, y: 0.4483693, z: 0, w: 0.8920217}
   colorScheme: 0
   Destination: {fileID: 711856978}
---- !u!114 &719074783
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 719074777}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  orientation: {x: -0.05308846, y: -0.86338615, z: 0, w: 0.5017429}
-  colorScheme: 0
-  Destination: {fileID: 1726578791}
 --- !u!1001 &721136479
 PrefabInstance:
   m_ObjectHideFlags: 0
