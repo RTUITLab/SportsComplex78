@@ -256,7 +256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   orientation: {x: -0.08994308, y: 0.8823067, z: 0, w: -0.46200132}
-  title: "\u041A\u043E\u0440\u0440\u0438\u0434\u043E\u0440"
+  title: "\u041A\u043E\u0440\u0438\u0434\u043E\u0440"
   states:
   - {fileID: 719074778}
   - {fileID: 1726578791}
