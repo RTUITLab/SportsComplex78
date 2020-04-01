@@ -235,6 +235,8 @@ MonoBehaviour:
   orientation: {x: 0.007622407, y: -0.26371732, z: 0, w: 0.9645699}
   colorScheme: 0
   Destination: {fileID: 991459937}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 318.45377
 --- !u!4 &62367161 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -258,6 +260,12 @@ MonoBehaviour:
   states:
   - {fileID: 719074778}
   - {fileID: 1726578791}
+  infos: []
+  rotationAfterStepAngles:
+  - state: {fileID: 1726578791}
+    rotationAfterStepAngle: 145.48436
+  - state: {fileID: 719074778}
+    rotationAfterStepAngle: 53.735146
 --- !u!1001 &258059745
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -372,6 +380,8 @@ MonoBehaviour:
   orientation: {x: 0.049825944, y: -0.3850046, z: 0, w: 0.9215687}
   colorScheme: 0
   Destination: {fileID: 1794530064}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 319.32083
 --- !u!4 &258059749 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -393,6 +403,8 @@ MonoBehaviour:
   orientation: {x: -0.010432017, y: -0.54091763, z: 0, w: 0.84101087}
   colorScheme: 0
   Destination: {fileID: 991459937}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 107.97408
 --- !u!1 &276042695
 GameObject:
   m_ObjectHideFlags: 0
@@ -442,9 +454,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96ceb7ded8f553d409b53f67fcaa5852, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0.24182579, y: 0.9526292, z: 0, w: 0.18443947}
+  orientation: {x: 0.17202827, y: 0.9682905, z: 0, w: 0.18116237}
   colorScheme: 0
   Destination: {fileID: 1646316625}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 81.68398
 --- !u!114 &284413056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -460,6 +474,8 @@ MonoBehaviour:
   orientation: {x: 0.1, y: -0.8, z: 0, w: 0.35}
   colorScheme: 0
   Destination: {fileID: 1726578791}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 53.910557
 --- !u!114 &284413057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -475,6 +491,8 @@ MonoBehaviour:
   orientation: {x: 0.030992692, y: 0.5476003, z: 0, w: 0.83616585}
   colorScheme: 0
   Destination: {fileID: 526644367}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 70.78072
 --- !u!114 &284413058 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -601,6 +619,8 @@ MonoBehaviour:
   orientation: {x: 0.045908798, y: 0.20702632, z: 0, w: 0.97725767}
   colorScheme: 0
   Destination: {fileID: 1496669915}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 181.82483
 --- !u!4 &284693936 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -622,6 +642,8 @@ MonoBehaviour:
   orientation: {x: 0.051039673, y: -0.5946588, z: 0, w: 0.8023565}
   colorScheme: 0
   Destination: {fileID: 1726578791}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 327.09238
 --- !u!1001 &407159899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -867,7 +889,7 @@ PrefabInstance:
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.000018
       objectReference: {fileID: 0}
     - target: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
@@ -970,6 +992,8 @@ MonoBehaviour:
   orientation: {x: 0.19646174, y: -0.80354303, z: 0, w: 0.56189096}
   colorScheme: 0
   Destination: {fileID: 284413058}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 241.20905
 --- !u!114 &526644369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -985,6 +1009,8 @@ MonoBehaviour:
   orientation: {x: 0.039996453, y: -0.21227828, z: 0, w: 0.9763904}
   colorScheme: 0
   Destination: {fileID: 767387176}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 5.679498
 --- !u!114 &526644370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1000,6 +1026,8 @@ MonoBehaviour:
   orientation: {x: -0.00034452803, y: 0.9725499, z: 0, w: 0.23269412}
   colorScheme: 0
   Destination: {fileID: 1909149583}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 147.48308
 --- !u!114 &526644371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1015,6 +1043,8 @@ MonoBehaviour:
   orientation: {x: 0.02115187, y: 0.5506622, z: 0, w: 0.83446014}
   colorScheme: 0
   Destination: {fileID: 952056947}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 82.424576
 --- !u!4 &526644376 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1287,6 +1317,8 @@ MonoBehaviour:
   orientation: {x: 0.04130561, y: -0.14934379, z: 0, w: 0.98792225}
   colorScheme: 0
   Destination: {fileID: 719074778}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 330.78287
 --- !u!4 &711856980 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1414,6 +1446,12 @@ MonoBehaviour:
   states:
   - {fileID: 62367159}
   - {fileID: 1726578791}
+  infos: []
+  rotationAfterStepAngles:
+  - state: {fileID: 1726578791}
+    rotationAfterStepAngle: 145.70813
+  - state: {fileID: 62367159}
+    rotationAfterStepAngle: 334.042
 --- !u!4 &719074780 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1435,6 +1473,8 @@ MonoBehaviour:
   orientation: {x: 0.23281364, y: 0.9329446, z: 0, w: 0.27461287}
   colorScheme: 0
   Destination: {fileID: 1496669915}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 25.041159
 --- !u!114 &719074782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1450,6 +1490,8 @@ MonoBehaviour:
   orientation: {x: 0.057115946, y: 0.4483693, z: 0, w: 0.8920217}
   colorScheme: 0
   Destination: {fileID: 711856978}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 165.0355
 --- !u!1001 &721136479
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1581,6 +1623,8 @@ MonoBehaviour:
   orientation: {x: 0.112206616, y: -0.7619879, z: 0, w: 0.6377963}
   colorScheme: 0
   Destination: {fileID: 1158070489}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 267.7656
 --- !u!114 &767387178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1596,6 +1640,8 @@ MonoBehaviour:
   orientation: {x: 0.049705878, y: 0.81811047, z: 0, w: 0.572909}
   colorScheme: 0
   Destination: {fileID: 526644367}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 153.54175
 --- !u!114 &767387179
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1611,6 +1657,8 @@ MonoBehaviour:
   orientation: {x: 0.018260611, y: 0.03294015, z: 0, w: 0.9992905}
   colorScheme: 0
   Destination: {fileID: 1402060069}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 7.5462303
 --- !u!4 &767387184 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1731,6 +1779,8 @@ MonoBehaviour:
   orientation: {x: 0.6262659, y: 0.77466094, z: 0, w: 0.0877017}
   colorScheme: 0
   Destination: {fileID: 1794530064}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 133.09143
 --- !u!114 &826689663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1746,6 +1796,8 @@ MonoBehaviour:
   orientation: {x: 0.02998212, y: -0.8648084, z: 0, w: 0.50120616}
   colorScheme: 0
   Destination: {fileID: 991459937}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 106.84942
 --- !u!4 &826689664 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -1875,6 +1927,8 @@ MonoBehaviour:
   orientation: {x: 0.026756069, y: -0.7584339, z: 0, w: 0.65120053}
   colorScheme: 0
   Destination: {fileID: 526644367}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 250.86179
 --- !u!114 &952056947 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2001,6 +2055,8 @@ MonoBehaviour:
   orientation: {x: 0.1022973, y: -0.053038288, z: 0, w: 0.99333894}
   colorScheme: 0
   Destination: {fileID: 258059746}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 155.51765
 --- !u!114 &991459940
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2016,6 +2072,8 @@ MonoBehaviour:
   orientation: {x: 0.09991572, y: 0.80076563, z: 0, w: 0.5905854}
   colorScheme: 0
   Destination: {fileID: 62367159}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 234.91318
 --- !u!4 &991459941 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2037,6 +2095,8 @@ MonoBehaviour:
   orientation: {x: 0.16843162, y: -0.1942756, z: 0, w: 0.9663787}
   colorScheme: 0
   Destination: {fileID: 1794530064}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 133.09181
 --- !u!114 &991459943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2052,6 +2112,8 @@ MonoBehaviour:
   orientation: {x: 0.26170725, y: -0.69995373, z: 0, w: 0.6645105}
   colorScheme: 0
   Destination: {fileID: 826689660}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 37.007824
 --- !u!1 &999947033
 GameObject:
   m_ObjectHideFlags: 0
@@ -2116,6 +2178,8 @@ MonoBehaviour:
   orientation: {x: 0.01757876, y: 0.7482336, z: 0, w: 0.6632024}
   colorScheme: 0
   Destination: {fileID: 2034699341}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 12.561566
 --- !u!4 &1139229862 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2155,6 +2219,8 @@ MonoBehaviour:
   orientation: {x: 0.06130025, y: 0.51688886, z: 0, w: 0.85385495}
   colorScheme: 0
   Destination: {fileID: 767387176}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 106.86029
 --- !u!114 &1158070491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2170,6 +2236,8 @@ MonoBehaviour:
   orientation: {x: 0.0591954, y: -0.7196253, z: 0, w: 0.69183475}
   colorScheme: 0
   Destination: {fileID: 2034699341}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 270.42188
 --- !u!4 &1158070496 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2299,6 +2367,8 @@ MonoBehaviour:
   orientation: {x: -0.35368535, y: 0.934702, z: 0, w: -0.035199754}
   colorScheme: 0
   Destination: {fileID: 767387176}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 111.44271
 --- !u!114 &1402060069 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2423,6 +2493,8 @@ MonoBehaviour:
   orientation: {x: 0.049904026, y: 0.67084455, z: 0, w: 0.73991704}
   colorScheme: 0
   Destination: {fileID: 284693933}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 177.41356
 --- !u!4 &1496669917 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2446,6 +2518,12 @@ MonoBehaviour:
   states:
   - {fileID: 719074778}
   - {fileID: 1726578791}
+  infos: []
+  rotationAfterStepAngles:
+  - state: {fileID: 719074778}
+    rotationAfterStepAngle: 53.851704
+  - state: {fileID: 1726578791}
+    rotationAfterStepAngle: 241.59467
 --- !u!1001 &1497302166
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2665,6 +2743,8 @@ MonoBehaviour:
   orientation: {x: -0.00043648883, y: -0.24765497, z: 0, w: 0.9688482}
   colorScheme: 0
   Destination: {fileID: 1909149583}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 33.306038
 --- !u!114 &1541648281 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -2887,6 +2967,8 @@ MonoBehaviour:
   orientation: {x: 0.059176277, y: -0.7603325, z: 0, w: 0.64683276}
   colorScheme: 0
   Destination: {fileID: 284413058}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 242.25229
 --- !u!4 &1646316628 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -3005,6 +3087,8 @@ MonoBehaviour:
   orientation: {x: 0.06, y: -0.8, z: 0, w: 0.4}
   colorScheme: 0
   Destination: {fileID: 284413058}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 66.48756
 --- !u!114 &1726578794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3022,6 +3106,12 @@ MonoBehaviour:
   states:
   - {fileID: 62367159}
   - {fileID: 719074778}
+  infos: []
+  rotationAfterStepAngles:
+  - state: {fileID: 62367159}
+    rotationAfterStepAngle: 334.14334
+  - state: {fileID: 719074778}
+    rotationAfterStepAngle: 53.399075
 --- !u!114 &1726578795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3039,6 +3129,10 @@ MonoBehaviour:
   states:
   - {fileID: 719074778}
   - {fileID: 1496669915}
+  infos: []
+  rotationAfterStepAngles:
+  - state: {fileID: 719074778}
+    rotationAfterStepAngle: 53.38127
 --- !u!114 &1726578797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3054,6 +3148,8 @@ MonoBehaviour:
   orientation: {x: 0.108837046, y: 0.9483361, z: 0, w: 0.2980152}
   colorScheme: 0
   Destination: {fileID: 284693933}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 107.60994
 --- !u!4 &1726578802 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -3172,6 +3268,8 @@ MonoBehaviour:
   orientation: {x: 0.055156253, y: -0.3318393, z: 0, w: 0.9417221}
   colorScheme: 0
   Destination: {fileID: 826689660}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 358.50784
 --- !u!114 &1794530067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3187,6 +3285,8 @@ MonoBehaviour:
   orientation: {x: 0.1740592, y: 0.8988117, z: 0, w: 0.40229458}
   colorScheme: 0
   Destination: {fileID: 258059746}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 155.33882
 --- !u!4 &1794530068 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -3208,6 +3308,8 @@ MonoBehaviour:
   orientation: {x: -0.007256378, y: -0.7136974, z: 0, w: 0.7004166}
   colorScheme: 0
   Destination: {fileID: 991459937}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 106.72862
 --- !u!1 &1827071870
 GameObject:
   m_ObjectHideFlags: 0
@@ -3275,6 +3377,8 @@ MonoBehaviour:
   orientation: {x: 0.05091903, y: 0.27926776, z: 0, w: 0.95886225}
   colorScheme: 0
   Destination: {fileID: 526644367}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 340.71115
 --- !u!114 &1909149585
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3290,6 +3394,8 @@ MonoBehaviour:
   orientation: {x: 0.056121785, y: 0.9586451, z: 0, w: 0.27901602}
   colorScheme: 0
   Destination: {fileID: 1541648281}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 150.80994
 --- !u!4 &1909149590 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -3329,6 +3435,8 @@ MonoBehaviour:
   orientation: {x: 0.023469843, y: 0.114305094, z: 0, w: 0.9931685}
   colorScheme: 0
   Destination: {fileID: 1158070489}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 62.562088
 --- !u!114 &2034699343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3344,6 +3452,8 @@ MonoBehaviour:
   orientation: {x: 0.028887922, y: -0.70814145, z: 0, w: 0.7054794}
   colorScheme: 0
   Destination: {fileID: 1139229856}
+  rotationAfterStepAngleOverridden: 1
+  rotationAfterStepAngle: 285.59506
 --- !u!4 &2034699348 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5615146593311307857, guid: cf382f7bf5f218746b96930f4bbc4441,
@@ -3357,6 +3467,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 642059757}
     m_Modifications:
+    - target: {fileID: 3311798341011851823, guid: cf382f7bf5f218746b96930f4bbc4441,
+        type: 3}
+      propertyPath: texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 259b07f2a77a62743811d6bc53b45924, type: 3}
     - target: {fileID: 4996967914276093797, guid: cf382f7bf5f218746b96930f4bbc4441,
         type: 3}
       propertyPath: title
