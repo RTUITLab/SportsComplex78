@@ -13,13 +13,27 @@ SportComplex (Виртуальная экскурсия по спорткомл�
 * ![]()
 ---
 
+# Videos
+
+---
+
 # Tags
 * Excursion
 * VR
 * Web
 ---
 # Tech
-* [TourCreator](https://github.com/RTUITLab/Excursion360-Builder)
+* TourCreator
 * Unity
+---
+# Developers
+* Китанин С.С.
+---
+# Site
+---
+# SourceCode
+| name                         | link                                          |
+| ---------------------------- | --------------------------------------------- |
+| Unity проект                 | https://github.com/RTUITLab/SportsComplex78   |
 
 ---
